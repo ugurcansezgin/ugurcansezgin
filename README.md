@@ -1,7 +1,7 @@
-### Hello there! (Read in Obi-Wan Kenobi's voice.
-) 👋
+### Hello there! (Read in Obi-Wan Kenobi's voice.) 👋
 
-<img alt="fly" src="[https://tenor.com/view/obi-wan-kenobi-hello-there-star-wars-disney-gif-26025920](https://c.tenor.com/Bks2Si272y4AAAAd/obi-wan-kenobi-hello-there.gif)" /> </br></br>
+![obi-wan-kenobi-hello-there](https://user-images.githubusercontent.com/87565365/192162942-31df9a3e-84a9-42fb-8892-2aad133e1174.gif)
+
 
 <img alt="fly" src="https://www.halildurmus.com/wp-content/uploads/2020/06/444-codes.jpg" /> </br></br>
 
