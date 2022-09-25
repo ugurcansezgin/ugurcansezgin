@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="fly" src="https://upload.wikimedia.org/wikipedia/tr/9/97/%C5%9Eim%C5%9Fek_McQueen.jpg" height="200em" align="right" /> </br></br>
+<img alt="fly" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC1DIgnYF32g4GQ3Walke-XODuqcuXUydN-w&usqp=CAU" /> </br></br>
 
 
 **ugurcansezgin/ugurcansezgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
