@@ -26,6 +26,18 @@
 
 
 
+### 🤝 &nbsp;Find me elsewhere 
+<div align="center">
+<a href="https://www.linkedin.com/in/muhammet-akbulut/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://instagram.com/muhammedakb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://twitter.com/muhammedakb" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="mailto:muhammetakb68@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
+<a href="https://discord.gg/Vvcg95zBjr" target="_blank"><img src="https://img.shields.io/badge/M4l4kl1-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://steamcommunity.com/profiles/76561198353184705" target="_blank"><img src="https://img.shields.io/badge/M4l4kl1-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+</div>
+
+
+
 
 
 
