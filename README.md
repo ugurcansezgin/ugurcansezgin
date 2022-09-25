@@ -12,6 +12,8 @@
 
 <img height="180em" alt="info" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammedakb&layout=compact&langs_count=8&theme=algolia" align="right"/>
 
+
+
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/JAVA-E34F26?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-E34F26?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -23,6 +25,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;<hr>
+
+
 
 
 
