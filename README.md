@@ -1,8 +1,8 @@
 ### Hello there! (Read in Obi-Wan Kenobi's voice.) 👋
 
-<div align="center">
+
 }![obi-wan-kenobi-hello-there](https://user-images.githubusercontent.com/87565365/192162942-31df9a3e-84a9-42fb-8892-2aad133e1174.gif)
-</div>
+
 
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -48,4 +48,4 @@
 
 
 
-<img alt="fly" src="https://www.halildurmus.com/wp-content/uploads/2020/06/444-codes.jpg" /> </br></br>
+<div align="center"><img alt="fly" src="https://www.halildurmus.com/wp-content/uploads/2020/06/444-codes.jpg" /></div> </br></br>
