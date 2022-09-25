@@ -10,6 +10,8 @@
 - 👯 I’m looking to collaborate on game development.
 - ⚡ Fun fact: I am good at playing FIFA and FPS games.
 
+<img height="180em" alt="info" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammedakb&layout=compact&langs_count=8&theme=algolia" align="right"/>
+
 
 
 
