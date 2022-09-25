@@ -1,18 +1,23 @@
 ### Hi there 👋
 
-<img alt="fly" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC1DIgnYF32g4GQ3Walke-XODuqcuXUydN-w&usqp=CAU" /> </br></br>
+<img alt="fly" src="https://www.halildurmus.com/wp-content/uploads/2020/06/444-codes.jpg" /> </br></br>
 
 
 **ugurcansezgin/ugurcansezgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Game Development, Frontend and Backend web development..
+- 🌱 I’m currently learning Unity, Java..
+- 👯 I’m looking to collaborate on game development.
+- ⚡ Fun fact: I am good at playing FIFA and FPS games.
+
+
+
+
+
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 
