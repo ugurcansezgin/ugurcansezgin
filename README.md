@@ -32,7 +32,7 @@
 <a href="https://www.instagram.com/ugurcansezgin/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://twitter.com/ugurcsezgin" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="mailto:ugurcan807@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a>
-<a href="https://steamcommunity.com/id/leous/" target="_blank"><img src="https://img.shields.io/badge/M4l4kl1-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+<a href="https://steamcommunity.com/id/leous/" target="_blank"><img src="https://img.shields.io/badge/leous-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
 </div>
 
 
