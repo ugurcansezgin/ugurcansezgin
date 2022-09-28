@@ -1,7 +1,7 @@
 ### Hello there! (Read in Obi-Wan Kenobi's voice.) 👋
 
 
-}![obi-wan-kenobi-hello-there](https://user-images.githubusercontent.com/87565365/192162942-31df9a3e-84a9-42fb-8892-2aad133e1174.gif)
+![obi-wan-kenobi-hello-there](https://user-images.githubusercontent.com/87565365/192162942-31df9a3e-84a9-42fb-8892-2aad133e1174.gif)
 
 
 
